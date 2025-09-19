@@ -1,6 +1,6 @@
 # 🧑‍🏫 Level 3 Python Activity: Personal Data Manager
 
-Complete or add yopur code into the main.py of the repository.
+Complete or add your code into the main.py of the repository.
 
 ## 🎯 Learning Goals
 - Apply input/output, string formatting, and data structures in a real-world scenario.
